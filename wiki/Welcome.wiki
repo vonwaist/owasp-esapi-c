@@ -1,0 +1,3 @@
+#summary owasp-esapi-c source code is arriving soon.
+
+If you're looking for the source code, it isn't here yet.  Sorry.  Check back next week.
