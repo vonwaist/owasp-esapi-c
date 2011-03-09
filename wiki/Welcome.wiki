@@ -1,3 +1,3 @@
-#summary owasp-esapi-c source code is arriving soon.
+#summary owasp-esapi-c source code is now available.
 
-If you're looking for the source code, it isn't here yet.  Sorry.  Check back next week.
+The source code for the ESAPI for C project is not available here in the Source tree.
